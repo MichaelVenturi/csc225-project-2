@@ -1,0 +1,28 @@
+.vh-mask {
+  height: 5vh;
+}
+hr {
+  height: 15px;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+main {
+  flex: 1 0 auto;
+}
+
+/* .sticky-footer {
+  flex-shrink: 0;
+} */
+
+.thumbnail {
+  height: 20vh;
+  width: 20vh;
+}
